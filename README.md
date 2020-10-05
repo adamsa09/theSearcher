@@ -7,6 +7,6 @@
 
 ## Installation Instructions
 
--`git clone https://github.com/adamsa09/theSearcher.git`
--`cd TheSearcher`
--`pip install -r requirements.txt`
+`git clone https://github.com/adamsa09/theSearcher.git`\
+`cd TheSearcher`\
+`pip install -r requirements.txt`\
