@@ -9,4 +9,4 @@
 
 `git clone https://github.com/adamsa09/theSearcher.git`\
 `cd TheSearcher`\
-`pip install -r requirements.txt`\
+`pip install -r requirements.txt`
