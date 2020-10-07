@@ -11,4 +11,4 @@
 `cd TheSearcher`\
 `pip install -r requirements.txt`
 
-###That's it! Make sure to report issues at https://github.com/adamsa09/theSearcher/issues
+### That's it! Make sure to report issues at https://github.com/adamsa09/theSearcher/issues
